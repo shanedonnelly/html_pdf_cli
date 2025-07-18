@@ -1,5 +1,5 @@
 # html_pdf_cli
-Bash command to convert url or html file to pdf, using chrome or chromimum. I find it easier to use than installing other tools
+Bash command to convert url or html file to pdf, using chrome or chromium. I find it easier to use than installing external tools.
 
 ## Installation
 
